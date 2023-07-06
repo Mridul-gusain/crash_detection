@@ -14,7 +14,7 @@ This repository provides a crash detection solution using the YOLOv4 object dete
 1. Clone the repository:
 
 	```
-	git clone https://github.com/Mridul-gusain/crash_detection.git
+	git clone https://github.com/Mridul-gusain/crash_detection
 	```
     
 2. Install the required packages:
